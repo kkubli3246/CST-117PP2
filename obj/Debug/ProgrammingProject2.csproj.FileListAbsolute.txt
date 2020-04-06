@@ -1,0 +1,10 @@
+K:\Visual Studio Projects\ProgrammingProject2\bin\Debug\ProgrammingProject2.exe.config
+K:\Visual Studio Projects\ProgrammingProject2\bin\Debug\ProgrammingProject2.exe
+K:\Visual Studio Projects\ProgrammingProject2\bin\Debug\ProgrammingProject2.pdb
+K:\Visual Studio Projects\ProgrammingProject2\obj\Debug\ProgrammingProject2.csprojAssemblyReference.cache
+K:\Visual Studio Projects\ProgrammingProject2\obj\Debug\ProgrammingProject2.Form1.resources
+K:\Visual Studio Projects\ProgrammingProject2\obj\Debug\ProgrammingProject2.Properties.Resources.resources
+K:\Visual Studio Projects\ProgrammingProject2\obj\Debug\ProgrammingProject2.csproj.GenerateResource.cache
+K:\Visual Studio Projects\ProgrammingProject2\obj\Debug\ProgrammingProject2.csproj.CoreCompileInputs.cache
+K:\Visual Studio Projects\ProgrammingProject2\obj\Debug\ProgrammingProject2.exe
+K:\Visual Studio Projects\ProgrammingProject2\obj\Debug\ProgrammingProject2.pdb
